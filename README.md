@@ -41,6 +41,9 @@ Mitjançant el procés de transcodificació cultural sofert per l’aplicació d
 
 ## **Platafomrmes de codificació social i col.laboració distribuïda. GitHub:**  
 <ul><li><h3><strong>Context de GitHub:</strong></h3></li></ul>  
+Si fins ara hem vist com el Digital Signage responia a una nova necessitat comunicativa característica de la cultura del programari (Manovich, 2013), veurem a continuació com les Plataformes de Codificació Social i Col·laboració Distribuïda responen a una altra necessitat tanmateix molt actual i representativa de la nova etapa d’evolució del metamitjà: el desenvolupament col·laboratiu del programari.  
+Molts són els projectes de programari, públics i privats, que han sorgit de la col·laboració entre programadors que han treballat en un mateix codi, com és el cas de Linux. Si bé ja existien programes de control de versions i repositoris de tipus centralitzat (SVN, CVS), és sota el prisma de l'open source, col·laboració en línia i xarxes socials que sorgeix la hibridació entre la lògica de bases de dades de motors com Git i el Web 2.0.  
+Anem a veure doncs, a través del cas específic de GitHub, com aquest tipus de plataformes no són una simple addició de propietats i interfícies, sinó una hibridació real que conforma un nou mitjà per al desenvolupament de programari (Manovich, 2013).  
 <ul><li><h3><strong>GitHub:</strong></h3></li></ul>  
 <ul><li><h3><strong>Hibridació de GitHub:</strong></h3></li></ul>  
 <ul><li><h3><strong>Conclusió de GitHub:</strong></h3></li></ul>  
