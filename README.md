@@ -9,7 +9,7 @@
 ## **Preàmbul:**  
 Com explica Manovich en el seu llibre El software toma el mando (2013, cap. 3), ens trobem en una segona etapa de la evolució del metamitjà ordinador, la hibridació.
 En aquest assaig donarem un cop d’ull a un parell de casos que, des d’el prisma de Manovich, representen un clar exemple d’hibridació (2013). Ho farem veient els casos generals estudiant-ne un cas específic de cada.  
-## **Cartelleria Digital (Digital Signage). Appsapce:**  
+## **Cartelleria Digital (Digital Signage). Appspace:**  
 <ul><li><h3><strong>Context:</strong></h3></li></ul>  
 El Digital Signage, o Cartelleria Digital ha esdevingut en els últims anys tot un mitjà de comunicació digital usat de maneres molt diverses (comunicació corporativa, anuncis d’exterior, senyalètica, marketing, wayfinding...). Tot plegat basat en un sistema de broadcasting en una plataforma pròpia de pantalles i dispositius vinculats a un software de gestió tipus CMS basat en web. (Lundstrom, 2008). 
 Es tracta de tot un nou mitjà que cumpleix els 5 principis de Manovich (2005): Representació Numèrica, Modularitat, Automatització, Variabilitat i Transcodificació. Però, estem davant d’un cas de remediació de la antiga televisió? De la publicitat en cartellera física? O podem parlar d’un cas d’hibridació? Anem a comprovar-ho analitzant-ne una plataforma específica de Digital Signage: Appspace (n.d.).  
