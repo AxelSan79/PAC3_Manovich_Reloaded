@@ -2,18 +2,23 @@
 ## **Continguts:**  
 * [Preàmbul](#preàmbul)  
 * [Cartelleria Digital (Digital Signage). Appsapce](#cartelleria-digital-digital-signage-appspace)  
-    * [Context](#context)  
+    * [Context d'Appspace](#context-dappspace)  
     * [Appspace](#appspace)  
     * [Remediació vs. Hibridació](#remediació-vs-hibridació)  
-    * [Conclusió del cas](#conclusió-del-cas)
+    * [Conclusió d'Appspace](#conclusió-dappspace)
 * [Platafomrmes de codificació social i col.laboració distribuïda. GitHub](#platafomrmes-de-codificació-social-i-collaboració-distribuïda-gitHub)
+    * [Context de GitHub](#context-de-github)
+    * [GitHub](#github)
+    * [Hibridació de GitHub](#hibridació-de-github)
+    * [Conclusió de GitHub](#conclusió-de-github)
+* [Conclusions](#conclusions)
 * [Referències](#referències)  
 ## **Preàmbul:**  
 Com explica Manovich en el seu llibre El software toma el mando (2013, cap. 3), ens trobem en una segona etapa de la evolució del metamitjà ordinador, la hibridació.
 En aquest assaig donarem un cop d’ull a un parell de casos que, des d’el prisma de Manovich, representen un clar exemple d’hibridació (2013). Ho farem veient els casos generals estudiant-ne un cas específic de cada.  
 
 ## **Cartelleria Digital (Digital Signage). Appspace:**  
-<ul><li><h3><strong>Context:</strong></h3></li></ul>  
+<ul><li><h3><strong>Context d'Appspace:</strong></h3></li></ul>  
 El Digital Signage, o Cartelleria Digital ha esdevingut en els últims anys tot un mitjà de comunicació digital usat de maneres molt diverses (comunicació corporativa, anuncis d’exterior, senyalètica, marketing, wayfinding...). Tot plegat basat en un sistema de broadcasting en una plataforma pròpia de pantalles i dispositius vinculats a un software de gestió tipus CMS basat en web. (Lundstrom, 2008). 
 Es tracta de tot un nou mitjà que cumpleix els 5 principis de Manovich (2005): Representació Numèrica, Modularitat, Automatització, Variabilitat i Transcodificació. Però, estem davant d’un cas de remediació de la antiga televisió? De la publicitat en cartellera física? O podem parlar d’un cas d’hibridació? Anem a comprovar-ho analitzant-ne una plataforma específica de Digital Signage: Appspace (n.d.).  
 <ul><li><h3><strong>Appspace:</strong></h3></li></ul>  
@@ -28,11 +33,17 @@ Si analitzem com estan integrat tots aquests conceptes, veurem que no es tracta 
 
 ![Appspace Crossed Features](/images/appspace2.png)  
 
-<ul><li><h3><strong>Conclusió del cas:</strong></h3></li></ul>  
+<ul><li><h3><strong>Conclusió d'Appspace:</strong></h3></li></ul>  
 Finalment, podem concloure que l’aparició d’Appspace en concret, així com del Digital Signage en general, és un clar exemple d’hibridació dels mitjans. Gairebé paradigmàtic.  
+
 Mitjançant el procés de transcodificació cultural sofert per l’aplicació de la lògica del programari a un seguit de mitjans anteriors analògics i/o digitals, aquests, no només han convergit en un nou mitjà, sinó que s’han remesclat, creant un nou tipus de solució multimèdia que respon a una nova necessitat comunicativa (Manovich, 2013).  
 
 ## **Platafomrmes de codificació social i col.laboració distribuïda. GitHub:**  
+<ul><li><h3><strong>Context de GitHub:</strong></h3></li></ul>  
+<ul><li><h3><strong>GitHub:</strong></h3></li></ul>  
+<ul><li><h3><strong>Hibridació de GitHub:</strong></h3></li></ul>  
+<ul><li><h3><strong>Conclusió de GitHub</strong></h3></li></ul>  
+## **Conclusions:**  
 ## **Referències:**  
 - Appsapce Inc. (n.d.). *Appspace [Programari].* Recuperat de https://www.appspace.com/
 - Bolter, J. D., & Grusin, R. (1999). *Remediation: Understanding new media.* The MIT Press.
