@@ -1,11 +1,11 @@
 # **Casos pràctics d’hibridació: Appspace i GitHub:**  
 ## **Continguts:**  
-* [Preàmbul](#preàmbul:)  
-* [Cartelleria Digital (Digital Signage). Appsapce](#cartelleria-digital-(digital-signage).-appsapce:)  
-    * [Context](#context:)  
-    * [Appspace](#appspace:)  
-    * [Remediació vs. Hibridació](#remediació-vs.-hibridació:)  
-    * [Conclusió del cas](#conclusió-del-cas:)  
+* [Preàmbul](#preàmbul)  
+* [Cartelleria Digital (Digital Signage). Appsapce](#cartelleria-digital-(digital-signage)-appsapce)  
+    * [Context](#context)  
+    * [Appspace](#appspace)  
+    * [Remediació vs. Hibridació](#remediació-vs-hibridació)  
+    * [Conclusió del cas](#conclusió-del-cas)  
 ## **Preàmbul:**  
 Com explica Manovich en el seu llibre El software toma el mando (2013, cap. 3), ens trobem en una segona etapa de la evolució del metamitjà ordinador, la hibridació.
 En aquest assaig donarem un cop d’ull a un parell de casos que, des d’el prisma de Manovich, representen un clar exemple d’hibridació (2013). Ho farem veient els casos generals estudiant-ne un cas específic de cada.  
