@@ -37,7 +37,7 @@ Si analitzem com estan integrat tots aquests conceptes, veurem que no es tracta 
 <ul><li><h3><strong>Conclusió d'Appspace:</strong></h3></li></ul>  
 Finalment, podem concloure que l’aparició d’Appspace en concret, així com del Digital Signage en general, és un clar exemple d’hibridació dels mitjans. Gairebé paradigmàtic.  
 
-Mitjançant el procés de transcodificació cultural sofert per l’aplicació de la lògica del programari a un seguit de mitjans anteriors analògics i/o digitals, aquests, no només han convergit en un nou mitjà, sinó que s’han remesclat, creant un nou tipus de solució multimèdia que respon a una nova necessitat comunicativa (Manovich, 2013).  
+Mitjançant el procés de transcodificació cultural sofert per l’aplicació de la lògica del programari a un seguit de mitjans anteriors analògics i/o digitals, aquests, no només han convergit en un nou mitjà, sinó que s’han remesclat, creant un nou tipus de solució multimèdia que respon a una nova necessitat comunicativa, on espai i medi visual han quedat hibridats (Manovich, 2013).  
 
 ## **Platafomrmes de codificació social i col.laboració distribuïda. GitHub:**  
 <ul><li><h3><strong>Context de GitHub:</strong></h3></li></ul>  
