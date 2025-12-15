@@ -33,6 +33,7 @@ Si analitzem com estan integrat tots aquests conceptes, veurem que no es tracta 
 
 ![Appspace Crossed Features](/images/appspace2.png)  
 
+
 <ul><li><h3><strong>Conclusió d'Appspace:</strong></h3></li></ul>  
 Finalment, podem concloure que l’aparició d’Appspace en concret, així com del Digital Signage en general, és un clar exemple d’hibridació dels mitjans. Gairebé paradigmàtic.  
 
@@ -42,7 +43,8 @@ Mitjançant el procés de transcodificació cultural sofert per l’aplicació d
 <ul><li><h3><strong>Context de GitHub:</strong></h3></li></ul>  
 <ul><li><h3><strong>GitHub:</strong></h3></li></ul>  
 <ul><li><h3><strong>Hibridació de GitHub:</strong></h3></li></ul>  
-<ul><li><h3><strong>Conclusió de GitHub</strong></h3></li></ul>  
+<ul><li><h3><strong>Conclusió de GitHub:</strong></h3></li></ul>  
+
 ## **Conclusions:**  
 ## **Referències:**  
 - Appsapce Inc. (n.d.). *Appspace [Programari].* Recuperat de https://www.appspace.com/
