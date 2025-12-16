@@ -21,7 +21,9 @@ En aquest assaig donarem un cop d’ull a un parell de casos que, des d’el pri
 <ul><li><h3><strong>Context (Appspace):</strong></h3></li></ul>  
 El Digital Signage, o Cartelleria Digital ha esdevingut en els últims anys tot un mitjà de comunicació digital usat de maneres molt diverses (comunicació corporativa, anuncis d’exterior, senyalètica, marketing, wayfinding...). Tot plegat basat en un sistema de broadcasting en una plataforma pròpia de pantalles i dispositius vinculats a un software de gestió tipus CMS basat en web. (Lundstrom, 2008).  
 
-Es tracta de tot un nou mitjà que cumpleix els 5 principis de Manovich (2005): Representació Numèrica, Modularitat, Automatització, Variabilitat i Transcodificació. Però, estem davant d’un cas de remediació de la antiga televisió? De la publicitat en cartellera física? O podem parlar d’un cas d’hibridació? Anem a comprovar-ho analitzant-ne una plataforma específica de Digital Signage: Appspace (n.d.).  
+Des de l'aparició i estandarització de les pantalles planes i la miniaturització dels PC, a principis dels 2000,  s'han anat substituïnt els cartells i panells informatius en format físic per un parc de dispositius capaços de descarregar contingut dinamicament des d'un servidor centralitzat. Probablement, en trobariem l'origen a les pantalles informatives dels aeroports i estacions. Amb el pas del temps, aquest contingut s'ha anat sofisticant esdevenint autèntiques parrilles de programació ininterrompuda i aquests dispositius s'han anat adaptant a noves necessitats comunicatives i, fins i tot, de negoci com els kioskos de punt de venda (Ludstrom, 2008).  
+
+Es tracta de tot un nou mitjà que cumpleix els 5 principis de Manovich (2005): Representació Numèrica, Modularitat, Automatització, Variabilitat i Transcodificació. Però, estem davant d’un cas de remediació de la antiga televisió? De la publicitat en cartelleria física? O podem parlar d’un cas d’hibridació? Anem a comprovar-ho analitzant-ne una plataforma específica de Digital Signage: Appspace (n.d.).  
 <ul><li><h3><strong>Appspace:</strong></h3></li></ul>  
 
 ![Appspace Dashboard](/images/appspace.png)  
@@ -56,7 +58,7 @@ Anem a veure doncs, a través del cas específic de GitHub, com aquest tipus de 
 ## **Referències:**  
 - Appsapce Inc. (n.d.). *Appspace [Programari].* Recuperat de https://www.appspace.com/
 - Bolter, J. D., & Grusin, R. (1999). *Remediation: Understanding new media.* The MIT Press.
-- Lundstrom, L. I. (2013). *Digital signage broadcasting: content management and distribution techniques.* Routledge.
+- Lundstrom, L. I. (2008). *Digital signage broadcasting: content management and distribution techniques.* Routledge.
 - Manovich, L. (2005). *El lenguaje de los nuevos medios de comunicación: La imagen en la era digital.* (Ò. Fontrodona, trad.). Paidós. 
 - Manovich, L. (2013). *El software toma el mando.* (1a ed. digital). Editorial UOC.
 
