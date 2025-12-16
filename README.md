@@ -56,13 +56,15 @@ Anem a veure doncs, a través del cas específic de GitHub, com aquest tipus de 
 ![GitHub Dashboard](/images/github.png)  
 
 GitHub va aparèixer l'any 2008, basant-se en el sistema Git que ja existia feia tres o quatre anys. Git era (i segueix sent) un sistema de control de versions distribuït (DVCS), que operava per línia de comandes (CLI). GitHub hi va afegir una interficie gràfica. Però no només això. Abans de GitHub, col.laborar en un projecte de codi requeria mantenir una comunicació i documentació del projecte moltes vegades en plataformes separades. Aquí és on GitHub va integrar una sèrie de característiques que responien a unes necessitats, donant-hi solució (GitHub, 2025).  
-La nova plataforma, GitHub, permet la creació, edició i compartició de repositoris de codi de manera gràfica, cosa que ha simplificat el procés i l'ha fet més assequible. A més, permet l'addició d'arxius de documentació a un projecte, així com de les llicències corresponents. GitHub li ha donat una interficie gràfica més visible i clara als commits, afegint-hi metadades. Però a més, afegeix una sèrie de noves característiques noves respecte als repositoris antics que son clau:  
+La nova plataforma, GitHub, permet la creació, edició i compartició de repositoris de codi de manera gràfica, cosa que ha simplificat el procés i l'ha fet més assequible. A més, permet l'addició d'arxius de documentació a un projecte, així com de les llicències corresponents. GitHub li ha donat una interficie gràfica més visible i clara als commits, afegint-hi metadades. Però a més, afegeix una sèrie de característiques noves respecte als repositoris antics que son clau:  
 
 - Issues: Un sistema de seguiment per a resolució de bugs, tasques i feature requests.
 - Pull requests: El mecanisme més representatiu de GitHub. Permet que un programador proposi canvis al projecte principal, obrint una discussió pública i revisió de codi abans que els canvis siguin acceptats.
 - Stars i Followers: Un sistema de reconeixement i puntuació que apropa GitHub a les RRSS. Permeten construir la reputació de programadors i projectes.
 - Gràfiques de Contribucions: Gràfiques que permeten donar visibilitat a l'activitat a la plataforma. Convertint la codificació en quelcom mediàtic.  
-Però, és GitHub un nou mitjà segons Manovich? 
+
+Però, és GitHub un nou mitjà segons Manovich? Altra vegada, com a plataforma i programari que és, podem dir que està conformat pels zeros i uns de la **representació númerica**. Quant a **modularitat**, podem dir que els commits i branches son els mòduls de codi sobre els que podem operar aïlladament. El fet de poder treballar sobre forks, fa que cada programador pugui disposar de versions diferents, per tant hi trobem **variabilitat**.  A l'apartat d'*Actions*, hi trobarem una sèrie d'**automatitzacions** programables i deployments. Finalment, és remarcable com la capa cultural de l'ús proper a xarxa social que els porogramadors han donat a GitHub està força present en moltes de les funcionalitats de la capa de programari d'aquest, donant mostres evidents de **transcodificació**.  
+
 <ul><li><h3><strong>Hibridació a GitHub:</strong></h3></li></ul>  
 <ul><li><h3><strong>Conclusió (GitHub):</strong></h3></li></ul>  
 
