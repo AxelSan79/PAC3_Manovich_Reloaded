@@ -45,6 +45,9 @@ Mitjançant el procés de transcodificació cultural sofert per l’aplicació d
 
 ## **Plataformes de codificació social i col.laboració distribuïda. GitHub:**  
 <ul><li><h3><strong>Context (GitHub):</strong></h3></li></ul>  
+
+![GitHub Dashboard](/images/github.png)  
+
 Si fins ara hem vist com el Digital Signage responia a una nova necessitat comunicativa característica de la cultura del programari (Manovich, 2013), veurem a continuació com les Plataformes de Codificació Social i Col·laboració Distribuïda responen a una altra necessitat tanmateix molt actual i representativa de la nova etapa d’evolució del metamitjà: el desenvolupament col·laboratiu del programari.  
 
 Molts són els projectes de programari, públics i privats, que han sorgit de la col·laboració entre programadors que han treballat en un mateix codi, com és el cas de Linux. Si bé ja existien programes de control de versions i repositoris de tipus centralitzat (SVN, CVS), és sota el prisma de l'open source, col·laboració en línia i xarxes socials que sorgeix la hibridació entre la lògica de bases de dades de motors com Git, el Web 2.0 i l'esperit de comunitat.  
@@ -58,6 +61,7 @@ La nova plataforma, GitHub, permet la creació, edició i compartició de reposi
 - Pull requests: El mecanisme més representatiu de GitHub. Permet que un programador proposi canvis al projecte principal, obrint una discussió pública i revisió de codi abans que els canvis siguin acceptats.
 - Stars i Followers: Un sistema de reconeixement i puntuació que apropa GitHub a les RRSS. Permeten construir la reputació de programadors i projectes.
 - Gràfiques de Contribucions: Gràfiques que permeten donar visibilitat a l'activitat a la plataforma. Convertint la codificació en quelcom mediàtic.
+
 Però, és GitHub un nou mitjà segons Manovich? 
 <ul><li><h3><strong>Hibridació a GitHub:</strong></h3></li></ul>  
 <ul><li><h3><strong>Conclusió (GitHub):</strong></h3></li></ul>  
