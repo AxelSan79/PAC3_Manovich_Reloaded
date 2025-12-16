@@ -1,6 +1,5 @@
 # **Casos pràctics d’hibridació: Appspace i GitHub.**  
-### Axel Sànchez Tejada  
-### Cultura Digital               ### Grau en Multimèdia  
+#### Axel Sànchez Tejada  --------------------  Cultura Digital  //  Grau en Multimèdia  
 
 ## **Continguts:**  
 * [Preàmbul](#preàmbul)  
