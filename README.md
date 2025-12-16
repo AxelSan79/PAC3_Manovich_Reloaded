@@ -71,7 +71,7 @@ Ja hem vist, doncs, que GitHub és un nou medi enfocat al desenvolupament col.la
 Una vegada hem observat aquest segon cas amb les ulleres de Manovich, trobem de nou com l'aplicació de la lògica del programari a procesos genuinament tècnics i, mitjançant un procés de transcodificació cultural, fa que apareguin noves plataformes híbrides amb nous usos que donen resposta a necessitats purament socials (Manovich, 2013).  
 
 ## **Conclusions:**  
-És en aquest punt  
+Fins aquí, hem estudiat dos casos particulars de programari que, alhora, són representatius de noves formes de relacionar-se amb l'entorn o entre iguals. En línia amb el que argumenta Manovich (2013), veiem que, ben entrats en aquesta segona fase de desenvolupament del programari, l'evolució d'aquest i la interacció entre elements ja passats per la lògica del software produeix noves formes híbrides. Aquestes, s'adapten a noves necessitats socials i culturals de l'èsser humà com les espècies animals s'adapten a les noves condicions climatològiques i orogràfiques. És ben bé que la nostra interacció amb el software és bidireccional i es retroalimenta. Així doncs, només podem mirar el futur i dir *El software, definitivament, ha prés el comandament.* (Manovich, 2013)
 
 ## **Referències:**  
 - Appsapce Inc. (s.f.). *Appspace* [Programari]. Recuperat el 15 de Desembre de 2025, de https://www.appspace.com/
