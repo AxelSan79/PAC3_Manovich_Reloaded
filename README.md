@@ -43,14 +43,16 @@ Finalment, podem concloure que l’aparició d’Appspace en concret, així com 
 
 Mitjançant el procés de transcodificació cultural sofert per l’aplicació de la lògica del programari a un seguit de mitjans anteriors analògics i/o digitals, aquests, no només han convergit en un nou mitjà, sinó que s’han remesclat, creant un nou tipus de solució multimèdia que respon a una nova necessitat comunicativa, on espai i medi visual han quedat hibridats (Manovich, 2013).  
 
-## **Platafomrmes de codificació social i col.laboració distribuïda. GitHub:**  
+## **Plataformes de codificació social i col.laboració distribuïda. GitHub:**  
 <ul><li><h3><strong>Context (GitHub):</strong></h3></li></ul>  
 Si fins ara hem vist com el Digital Signage responia a una nova necessitat comunicativa característica de la cultura del programari (Manovich, 2013), veurem a continuació com les Plataformes de Codificació Social i Col·laboració Distribuïda responen a una altra necessitat tanmateix molt actual i representativa de la nova etapa d’evolució del metamitjà: el desenvolupament col·laboratiu del programari.  
 
-Molts són els projectes de programari, públics i privats, que han sorgit de la col·laboració entre programadors que han treballat en un mateix codi, com és el cas de Linux. Si bé ja existien programes de control de versions i repositoris de tipus centralitzat (SVN, CVS), és sota el prisma de l'open source, col·laboració en línia i xarxes socials que sorgeix la hibridació entre la lògica de bases de dades de motors com Git i el Web 2.0.  
+Molts són els projectes de programari, públics i privats, que han sorgit de la col·laboració entre programadors que han treballat en un mateix codi, com és el cas de Linux. Si bé ja existien programes de control de versions i repositoris de tipus centralitzat (SVN, CVS), és sota el prisma de l'open source, col·laboració en línia i xarxes socials que sorgeix la hibridació entre la lògica de bases de dades de motors com Git, el Web 2.0 i l'esperit de comunitat.  
 
 Anem a veure doncs, a través del cas específic de GitHub, com aquest tipus de plataformes no són una simple addició de propietats i interfícies, sinó una hibridació real que conforma un nou mitjà per al desenvolupament de programari (Manovich, 2013).  
 <ul><li><h3><strong>GitHub:</strong></h3></li></ul>  
+GitHub va aparèixer l'any 2008, basant-se en el sistema Git que ja existia feia tres o quatre anys. Git era (i segueix sent) un sistema de control de versions distribuït, que operava per CLI. GitHub hi va afegir una interficie gràfica. Però no només això. Abans de GitHub, col.laborar en un projecte de codi requeria mantenir una comunicació i documentació del projecte moltes vegades en plataformes separades. Aquí és on GitHub va integrar una sèrie de característiques que responien a unes necessitats, donant-hi solució.  
+La nova plataforma, GitHub, permet la creació, edició i compartició de repositoris de codi de manera gràfica, cosa que ha simplificat el procés i l'ha fet més assequible. A més, permet l'addició d'arxius de documentació a un projecte. GitHub li ha donat una interficie gràfica més visible i clara als commits, afegint-hi metadades.  
 <ul><li><h3><strong>Hibridació a GitHub:</strong></h3></li></ul>  
 <ul><li><h3><strong>Conclusió (GitHub):</strong></h3></li></ul>  
 
