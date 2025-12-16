@@ -2,12 +2,12 @@
 ## **Continguts:**  
 * [Preàmbul](#preàmbul)  
 * [Cartelleria Digital (Digital Signage). Appsapce](#cartelleria-digital-digital-signage-appspace)  
-    * [Context d'Appspace](#context-dappspace)  
+    * [Context (Appspace)](#context-appspace)  
     * [Appspace](#appspace)  
     * [Remediació vs. Hibridació](#remediació-vs-hibridació)  
     * [Conclusió d'Appspace](#conclusió-dappspace)
 * [Platafomrmes de codificació social i col.laboració distribuïda. GitHub](#platafomrmes-de-codificació-social-i-collaboració-distribuïda-gitHub)
-    * [Context de GitHub](#context-de-github)
+    * [Context (GitHub)](#context-github)
     * [GitHub](#github)
     * [Hibridació de GitHub](#hibridació-de-github)
     * [Conclusió de GitHub](#conclusió-de-github)
@@ -18,7 +18,7 @@ Com explica Manovich en el seu llibre El software toma el mando (2013, cap. 3), 
 En aquest assaig donarem un cop d’ull a un parell de casos que, des d’el prisma de Manovich, representen un clar exemple d’hibridació (2013). Ho farem veient els casos generals estudiant-ne un cas específic de cada.  
 
 ## **Cartelleria Digital (Digital Signage). Appspace:**  
-<ul><li><h3><strong>Context d'Appspace:</strong></h3></li></ul>  
+<ul><li><h3><strong>Context (Appspace):</strong></h3></li></ul>  
 El Digital Signage, o Cartelleria Digital ha esdevingut en els últims anys tot un mitjà de comunicació digital usat de maneres molt diverses (comunicació corporativa, anuncis d’exterior, senyalètica, marketing, wayfinding...). Tot plegat basat en un sistema de broadcasting en una plataforma pròpia de pantalles i dispositius vinculats a un software de gestió tipus CMS basat en web. (Lundstrom, 2008).  
 
 Es tracta de tot un nou mitjà que cumpleix els 5 principis de Manovich (2005): Representació Numèrica, Modularitat, Automatització, Variabilitat i Transcodificació. Però, estem davant d’un cas de remediació de la antiga televisió? De la publicitat en cartellera física? O podem parlar d’un cas d’hibridació? Anem a comprovar-ho analitzant-ne una plataforma específica de Digital Signage: Appspace (n.d.).  
@@ -42,7 +42,7 @@ Finalment, podem concloure que l’aparició d’Appspace en concret, així com 
 Mitjançant el procés de transcodificació cultural sofert per l’aplicació de la lògica del programari a un seguit de mitjans anteriors analògics i/o digitals, aquests, no només han convergit en un nou mitjà, sinó que s’han remesclat, creant un nou tipus de solució multimèdia que respon a una nova necessitat comunicativa, on espai i medi visual han quedat hibridats (Manovich, 2013).  
 
 ## **Platafomrmes de codificació social i col.laboració distribuïda. GitHub:**  
-<ul><li><h3><strong>Context de GitHub:</strong></h3></li></ul>  
+<ul><li><h3><strong>Context (GitHub):</strong></h3></li></ul>  
 Si fins ara hem vist com el Digital Signage responia a una nova necessitat comunicativa característica de la cultura del programari (Manovich, 2013), veurem a continuació com les Plataformes de Codificació Social i Col·laboració Distribuïda responen a una altra necessitat tanmateix molt actual i representativa de la nova etapa d’evolució del metamitjà: el desenvolupament col·laboratiu del programari.  
 
 Molts són els projectes de programari, públics i privats, que han sorgit de la col·laboració entre programadors que han treballat en un mateix codi, com és el cas de Linux. Si bé ja existien programes de control de versions i repositoris de tipus centralitzat (SVN, CVS), és sota el prisma de l'open source, col·laboració en línia i xarxes socials que sorgeix la hibridació entre la lògica de bases de dades de motors com Git i el Web 2.0.  
