@@ -1,4 +1,7 @@
 # **Casos pràctics d’hibridació: Appspace i GitHub.**  
+### Axel Sànchez Tejada  
+### Cultura Digital               ### Grau en Multimèdia  
+
 ## **Continguts:**  
 * [Preàmbul](#preàmbul)  
 * [Cartelleria Digital (Digital Signage). Appsapce](#cartelleria-digital-digital-signage-appspace)  
