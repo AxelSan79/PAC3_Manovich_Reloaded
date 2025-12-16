@@ -3,7 +3,8 @@ Aquest assaig està sota llicència:
 
 
 Sou lliure de:  
-> **Compartir** — copiar i redistribuir el material en qualsevol mitjà i format  
+> **Compartir** — copiar i redistribuir el material en qualsevol mitjà i format
+
 > **Adaptar** — remesclar, transformar i crear a partir del material
 
 El llicenciador no pot revocar aquestes llibertats, sempre que seguiu els termes de la llicència.  
