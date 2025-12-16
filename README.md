@@ -5,12 +5,12 @@
     * [Context (Appspace)](#context-appspace)  
     * [Appspace](#appspace)  
     * [Remediació vs. Hibridació](#remediació-vs-hibridació)  
-    * [Conclusió d'Appspace](#conclusió-dappspace)
+    * [Conclusió (Appspace)](#conclusió-appspace)
 * [Platafomrmes de codificació social i col.laboració distribuïda. GitHub](#platafomrmes-de-codificació-social-i-collaboració-distribuïda-gitHub)
     * [Context (GitHub)](#context-github)
     * [GitHub](#github)
-    * [Hibridació de GitHub](#hibridació-de-github)
-    * [Conclusió de GitHub](#conclusió-de-github)
+    * [Hibridació a GitHub](#hibridació-a-github)
+    * [Conclusió (GitHub)](#conclusió-github)
 * [Conclusions](#conclusions)
 * [Referències](#referències)  
 ## **Preàmbul:**  
@@ -32,13 +32,13 @@ Appspace és una plataforma de DS (per tant un software) que aglutina i gestiona
 <ul><li><h3><strong>Remediació vs. Hibridació:</strong></h3></li></ul>   
 Deiem abans que el propi sistema de distribució del contingut, de tipus broadcast, dirigit als diferents receptors (pantalles, players, mòbils, apps, intranet...) ens recorda al de l’antiga televisió. El programa serien les playlists amb el contingut seleccionat. Però també hi veiem la cartelleria física tradicional, on els cartells serien les pantalles i dispositius i l’anunci seria el contingut, ara digitalitzat. També podem pensar que Appspace és un CMS a l’ùs, ja que permet pujar, modificar, emmagatzemar i publicar contingut. Per últim, podríem pensar que el mòdul de dispositius d’Appspace és un RDM, que ens permet monitoritzar l’estat de connexió, actualitzar el firmware, aplicar pedaços o reiniciar els diferents dispositius vinculats (Appspace, n.d.).
 
-Si analitzem com estan integrat tots aquests conceptes, veurem que no es tracta d’una simple addició de les diferents funcionalitats una al costat de l’altra. Si fos així, els mòduls serien completament independents, on el CMS només gestionaria contingut (anuncis o programes, l’RDM els dispositius  (cartells o televisors). En aquest cas estaríem davant d’un exemple de remediació segons Bolter i Grusin (1999). Ara bé, la integració de conceptes creuats entre aquests mitjans (canals, broadcast, campanyes, audiéncies) i l’addició de funcionalitats noves i creuades, on, per exemple, des d’el mòdul de dispositius puc configurar una playlist per defecte d’una pantalla o grup; des del mòdul de pujada de contingut, puc definir un programa i horari; o el fet que en un mateix mitjà de comunicació s’integrin tot tipus de mitjans audiovisuals diferents i de nous respecte als antics mitjans remediats (newsletters, RSS, app content...) fa d’Appspace en concret i del Digital Signage en general no només un simple mitjà remediat sinó tot un paradigma d’hibridació de mitjans en un nou concepte de comunicació (Manovich, 2013).  
+Si analitzem com estan integrats tots aquests conceptes, veurem que no es tracta d’una simple addició de les diferents funcionalitats una al costat de l’altra. Si fos així, els mòduls serien completament independents, on el CMS només gestionaria contingut (anuncis o programes), l’RDM els dispositius  (cartells o televisors). En aquest cas estaríem davant d’un exemple de remediació segons Bolter i Grusin (1999). Ara bé, la integració de conceptes creuats entre aquests mitjans (canals, broadcast, campanyes, audiéncies) i l’addició de funcionalitats noves i creuades, on, per exemple, des d’el mòdul de dispositius podem configurar una playlist per defecte d’una pantalla o grup; des del mòdul de pujada de contingut, podem definir un programa i horari; o el fet que en un mateix mitjà de comunicació s’integrin tot tipus de continguts audiovisuals diferents i de nous respecte als antics mitjans remediats (newsletters, RSS, app content...) fa d’Appspace en concret i del Digital Signage en general no només una simple remescla de plataformes sinó tot un paradigma d’hibridació de mitjans en un nou concepte de comunicació (Manovich, 2013).  
 
 
 ![Appspace Crossed Features](/images/appspace2.png)  
 
 
-<ul><li><h3><strong>Conclusió d'Appspace:</strong></h3></li></ul>  
+<ul><li><h3><strong>Conclusió (Appspace):</strong></h3></li></ul>  
 Finalment, podem concloure que l’aparició d’Appspace en concret, així com del Digital Signage en general, és un clar exemple d’hibridació dels mitjans. Gairebé paradigmàtic.  
 
 Mitjançant el procés de transcodificació cultural sofert per l’aplicació de la lògica del programari a un seguit de mitjans anteriors analògics i/o digitals, aquests, no només han convergit en un nou mitjà, sinó que s’han remesclat, creant un nou tipus de solució multimèdia que respon a una nova necessitat comunicativa, on espai i medi visual han quedat hibridats (Manovich, 2013).  
@@ -51,8 +51,8 @@ Molts són els projectes de programari, públics i privats, que han sorgit de la
 
 Anem a veure doncs, a través del cas específic de GitHub, com aquest tipus de plataformes no són una simple addició de propietats i interfícies, sinó una hibridació real que conforma un nou mitjà per al desenvolupament de programari (Manovich, 2013).  
 <ul><li><h3><strong>GitHub:</strong></h3></li></ul>  
-<ul><li><h3><strong>Hibridació de GitHub:</strong></h3></li></ul>  
-<ul><li><h3><strong>Conclusió de GitHub:</strong></h3></li></ul>  
+<ul><li><h3><strong>Hibridació a GitHub:</strong></h3></li></ul>  
+<ul><li><h3><strong>Conclusió (GitHub):</strong></h3></li></ul>  
 
 ## **Conclusions:**  
 ## **Referències:**  
