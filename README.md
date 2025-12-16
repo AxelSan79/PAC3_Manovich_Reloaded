@@ -14,7 +14,7 @@
 * [Conclusions](#conclusions)
 * [Referències](#referències)  
 ## **Preàmbul:**  
-Com explica Manovich en el seu llibre *El software toma el mando* (2013, cap. 3), ens trobem en una segona etapa de la evolució del metamitjà ordinador, la hibridació.
+Com explica Manovich en el seu llibre *El software toma el mando* (2013, cap. 3), ens trobem en una segona etapa de la evolució del metamitjà ordinador, la hibridació dels mitjans.  
 En aquest assaig donarem un cop d’ull a un parell de casos que, des d’el prisma de Manovich, representen un clar exemple d’hibridació (2013). Ho farem veient els casos generals estudiant-ne un cas específic de cada.  
 
 ## **Cartelleria Digital (Digital Signage). Appspace:**  
